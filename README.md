@@ -1,6 +1,6 @@
 # Otimização de Trusspoles
 
-Este projeto implementa um conjunto de ferramentas em Python para modelagem, análise, dimensionamento e otimização de torres treliçadas modulares ("trusspoles").
+Este projeto implementa um conjunto de ferramentas em Python para modelagem, análise, dimensionamento e otimização de postes treliçados modulares ("trusspoles").
 
 O código foi desenvolvido para explorar diversas quantidades de diagonais por módulo e encontrar, de forma automática, a configuração estrutural com menor peso que atenda aos critérios normativos da ASCE 10‑15. As principais rotinas utilizam a biblioteca [anaStruct](https://github.com/ritchie46/anaStruct) para a análise de treliças.
 
